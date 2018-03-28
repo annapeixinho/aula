@@ -1,0 +1,30 @@
+* {
+	text-align:center;
+	font-family:courier, "courier new";
+}
+
+body {
+	background:linear-gradient(#D447F7, #FADEE6);
+	background-repeat: repeat-x;
+}
+
+li {
+	display:inline;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+main, nav, header {
+	margin-left:10%;
+	margin-right:10%;
+}
+
+ul {
+	background-color:#ffb347;
+	overflow:hidden;
+	opacity: 0.7;
+}
+
+a:hover {
+	background-color:#FD9562;
+}
